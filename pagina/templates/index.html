@@ -1,0 +1,14 @@
+
+{% extends 'base.html' %}
+{% block content %} 
+<h1>Elige un tablero</h1>
+<div class="list-group">
+    
+    <a href="{{url_for('show_page_tab7')}}" class="list-group-item list-group-item-action">Tablero 7</a>
+    <a href="{{url_for('show_page_tab1')}}" class="list-group-item list-group-item-action">Tablero 1</a>
+    <a href="#" class="list-group-item list-group-item-action">A fourth link item</a>
+    <a class="list-group-item list-group-item-action disabled" aria-disabled="true">A disabled link item</a>
+  </div>
+    
+    
+{% endblock %}  

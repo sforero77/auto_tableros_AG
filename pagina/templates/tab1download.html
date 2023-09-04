@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+{% block content %} 
+    <h1>finish tablero 1 </h1>
+    <h2>Download this file</h2>
+    <p><a href="{{ url_for('download_homicidios_variables') }}">HOMICIDIOS VARIABLES</a></p>
+    <p><a href="{{ url_for('download_tcp_categoria_pdet') }}">TCP Categoria PDET</a></p>
+    <p><a href="{{ url_for('download_tcp_departamento') }}">TCP Departamento</a></p>
+    <p><a href="{{ url_for('download_ctp_policia') }}">CTP Policia</a></p>
+{% endblock %}  

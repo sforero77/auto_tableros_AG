@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+{% block content %} 
+
+    <h1>TABLERO 7</h1>
+    <h1>Upload and Process Excel</h1>
+    
+
+    <div class="input-group ">
+        <form action="/upload_tablero7" method="POST" enctype="multipart/form-data">
+            <input name="file" id="file" type="file" class="form-control "  aria-describedby="inputGroupFileAddon04" aria-label="Upload" accept=".csv, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, application/vnd.ms-excel">
+            <br>
+            <input class="btn btn-outline-secondary" type="submit"  value="Upload" >
+      </div>
+{% endblock %}  

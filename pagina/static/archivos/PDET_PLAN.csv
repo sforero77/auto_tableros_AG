@@ -1,0 +1,1122 @@
+div_dpto;dpto;div_mun;municipio;PDET;CATEGORIA
+5;Antioquia;5001;Medellín;N/A;ESP
+5;Antioquia;5002;Abejorral;N/A;6
+5;Antioquia;5004;Abriaquí;N/A;6
+5;Antioquia;5021;Alejandría;N/A;6
+5;Antioquia;5030;Amagá;N/A;5
+5;Antioquia;5031;Amalfi;PDET;6
+5;Antioquia;5034;Andes;N/A;6
+5;Antioquia;5036;Angelópolis;N/A;6
+5;Antioquia;5038;Angostura;N/A;6
+5;Antioquia;5040;Anorí;PDET;6
+5;Antioquia;5042;Santafé de Antioquia;N/A;5
+5;Antioquia;5044;Anzá;N/A;6
+5;Antioquia;5045;Apartadó;PDET;3
+5;Antioquia;5051;Arboletes;N/A;6
+5;Antioquia;5055;Argelia;N/A;6
+5;Antioquia;5059;Armenia;N/A;6
+5;Antioquia;5079;Barbosa;N/A;5
+5;Antioquia;5086;Belmira;N/A;6
+5;Antioquia;5088;Bello;N/A;1
+5;Antioquia;5091;Betania;N/A;6
+5;Antioquia;5093;Betulia;N/A;6
+5;Antioquia;5101;Ciudad Bolívar;N/A;6
+5;Antioquia;5107;Briceño;PDET;6
+5;Antioquia;5113;Buriticá;N/A;6
+5;Antioquia;5120;Cáceres;PDET;6
+5;Antioquia;5125;Caicedo;N/A;6
+5;Antioquia;5129;Caldas;N/A;3
+5;Antioquia;5134;Campamento;N/A;6
+5;Antioquia;5138;Cañasgordas;N/A;6
+5;Antioquia;5142;Caracolí;N/A;6
+5;Antioquia;5145;Caramanta;N/A;6
+5;Antioquia;5147;Carepa;PDET;6
+5;Antioquia;5148;El Carmen de Viboral;N/A;3
+5;Antioquia;5150;Carolina;N/A;6
+5;Antioquia;5154;Caucasia;PDET;5
+5;Antioquia;5172;Chigorodó;PDET;6
+5;Antioquia;5190;Cisneros;N/A;6
+5;Antioquia;5197;Cocorná;N/A;6
+5;Antioquia;5206;Concepción;N/A;6
+5;Antioquia;5209;Concordia;N/A;6
+5;Antioquia;5212;Copacabana;N/A;3
+5;Antioquia;5234;Dabeiba;PDET;6
+5;Antioquia;5237;Donmatías;N/A;6
+5;Antioquia;5240;Ebéjico;N/A;6
+5;Antioquia;5250;El Bagre;PDET;6
+5;Antioquia;5264;Entrerríos;N/A;6
+5;Antioquia;5266;Envigado;N/A;1
+5;Antioquia;5282;Fredonia;N/A;6
+5;Antioquia;5284;Frontino;N/A;6
+5;Antioquia;5306;Giraldo;N/A;6
+5;Antioquia;5308;Girardota;N/A;3
+5;Antioquia;5310;Gómez Plata;N/A;6
+5;Antioquia;5313;Granada;N/A;6
+5;Antioquia;5315;Guadalupe;N/A;6
+5;Antioquia;5318;Guarne;N/A;2
+5;Antioquia;5321;Guatapé;N/A;6
+5;Antioquia;5347;Heliconia;N/A;6
+5;Antioquia;5353;Hispania;N/A;6
+5;Antioquia;5360;Itagüí;N/A;1
+5;Antioquia;5361;Ituango;PDET;6
+5;Antioquia;5364;Jardín;N/A;6
+5;Antioquia;5368;Jericó;N/A;6
+5;Antioquia;5376;La Ceja;N/A;3
+5;Antioquia;5380;La Estrella;N/A;2
+5;Antioquia;5390;La Pintada;N/A;6
+5;Antioquia;5400;La Unión;N/A;6
+5;Antioquia;5411;Liborina;N/A;6
+5;Antioquia;5425;Maceo;N/A;6
+5;Antioquia;5440;Marinilla;N/A;3
+5;Antioquia;5467;Montebello;N/A;6
+5;Antioquia;5475;Murindó;PDET;6
+5;Antioquia;5480;Mutatá;PDET;6
+5;Antioquia;5483;Nariño;N/A;6
+5;Antioquia;5490;Necoclí;PDET;6
+5;Antioquia;5495;Nechí;PDET;6
+5;Antioquia;5501;Olaya;N/A;6
+5;Antioquia;5541;Peñol;N/A;6
+5;Antioquia;5543;Peque;N/A;6
+5;Antioquia;5576;Pueblorrico;N/A;6
+5;Antioquia;5579;Puerto Berrío;N/A;6
+5;Antioquia;5585;Puerto Nare;N/A;6
+5;Antioquia;5591;Puerto Triunfo;N/A;6
+5;Antioquia;5604;Remedios;PDET;5
+5;Antioquia;5607;Retiro;N/A;3
+5;Antioquia;5615;Rionegro;N/A;1
+5;Antioquia;5628;Sabanalarga;N/A;6
+5;Antioquia;5631;Sabaneta;N/A;1
+5;Antioquia;5642;Salgar;N/A;6
+5;Antioquia;5647;San Andrés de Cuerquía;N/A;6
+5;Antioquia;5649;San Carlos;N/A;6
+5;Antioquia;5652;San Francisco;N/A;6
+5;Antioquia;5656;San Jerónimo;N/A;6
+5;Antioquia;5658;San José de La Montaña;N/A;6
+5;Antioquia;5659;San Juan de Urabá;N/A;6
+5;Antioquia;5660;San Luis;N/A;6
+5;Antioquia;5664;San Pedro de Los Milagros;N/A;6
+5;Antioquia;5665;San Pedro de Urabá;PDET;6
+5;Antioquia;5667;San Rafael;N/A;6
+5;Antioquia;5670;San Roque;N/A;6
+5;Antioquia;5674;San Vicente;N/A;6
+5;Antioquia;5679;Santa Bárbara;N/A;6
+5;Antioquia;5686;Santa Rosa de Osos;N/A;5
+5;Antioquia;5690;Santo Domingo;N/A;6
+5;Antioquia;5697;El Santuario;N/A;6
+5;Antioquia;5736;Segovia;PDET;3
+5;Antioquia;5756;Sonsón;N/A;5
+5;Antioquia;5761;Sopetrán;N/A;6
+5;Antioquia;5789;Támesis;N/A;6
+5;Antioquia;5790;Tarazá;PDET;6
+5;Antioquia;5792;Tarso;N/A;6
+5;Antioquia;5809;Titiribí;N/A;6
+5;Antioquia;5819;Toledo;N/A;6
+5;Antioquia;5837;Turbo;PDET;4
+5;Antioquia;5842;Uramita;N/A;6
+5;Antioquia;5847;Urrao;N/A;6
+5;Antioquia;5854;Valdivia;PDET;6
+5;Antioquia;5856;Valparaíso;N/A;6
+5;Antioquia;5858;Vegachí;N/A;6
+5;Antioquia;5861;Venecia;N/A;6
+5;Antioquia;5873;Vigía del Fuerte;PDET;6
+5;Antioquia;5885;Yalí;N/A;6
+5;Antioquia;5887;Yarumal;N/A;6
+5;Antioquia;5890;Yolombó;N/A;6
+5;Antioquia;5893;Yondó;PDET;5
+5;Antioquia;5895;Zaragoza;PDET;6
+8;Atlántico;8001;Barranquilla;N/A;ESP
+8;Atlántico;8078;Baranoa;N/A;6
+8;Atlántico;8137;Campo de La Cruz;N/A;6
+8;Atlántico;8141;Candelaria;N/A;6
+8;Atlántico;8296;Galapa;N/A;6
+8;Atlántico;8372;Juan de Acosta;N/A;6
+8;Atlántico;8421;Luruaco;N/A;6
+8;Atlántico;8433;Malambo;N/A;4
+8;Atlántico;8436;Manatí;N/A;6
+8;Atlántico;8520;Palmar de Varela;N/A;6
+8;Atlántico;8549;Piojó;N/A;6
+8;Atlántico;8558;Polonuevo;N/A;6
+8;Atlántico;8560;Ponedera;N/A;6
+8;Atlántico;8573;Puerto Colombia;N/A;3
+8;Atlántico;8606;Repelón;N/A;6
+8;Atlántico;8634;Sabanagrande;N/A;6
+8;Atlántico;8638;Sabanalarga;N/A;5
+8;Atlántico;8675;Santa Lucía;N/A;6
+8;Atlántico;8685;Santo Tomás;N/A;6
+8;Atlántico;8758;Soledad;N/A;2
+8;Atlántico;8770;Suan;N/A;6
+8;Atlántico;8832;Tubará;N/A;6
+8;Atlántico;8849;Usiacurí;N/A;6
+11;Bogotá. D.C.;11001;Bogotá. D.C.;N/A;ESP
+13;Bolívar;13001;Cartagena de Indias;N/A;ESP
+13;Bolívar;13006;Achí;N/A;6
+13;Bolívar;13030;Altos del Rosario;N/A;6
+13;Bolívar;13042;Arenal;PDET;6
+13;Bolívar;13052;Arjona;N/A;6
+13;Bolívar;13062;Arroyohondo;N/A;6
+13;Bolívar;13074;Barranco de Loba;N/A;6
+13;Bolívar;13140;Calamar;N/A;6
+13;Bolívar;13160;Cantagallo;PDET;6
+13;Bolívar;13188;Cicuco;N/A;6
+13;Bolívar;13212;Córdoba;PDET;6
+13;Bolívar;13222;Clemencia;N/A;6
+13;Bolívar;13244;El Carmen de Bolívar;PDET;6
+13;Bolívar;13248;El Guamo;PDET;6
+13;Bolívar;13268;El Peñón;N/A;6
+13;Bolívar;13300;Hatillo de Loba;N/A;6
+13;Bolívar;13430;Magangué;N/A;5
+13;Bolívar;13433;Mahates;N/A;6
+13;Bolívar;13440;Margarita;N/A;6
+13;Bolívar;13442;María La Baja;PDET;6
+13;Bolívar;13458;Montecristo;N/A;6
+13;Bolívar;13468;Mompós;N/A;6
+13;Bolívar;13473;Morales;PDET;6
+13;Bolívar;13490;Norosí;N/A;#N/D
+13;Bolívar;13549;Pinillos;N/A;6
+13;Bolívar;13580;Regidor;N/A;6
+13;Bolívar;13600;Río Viejo;N/A;6
+13;Bolívar;13620;San Cristóbal;N/A;6
+13;Bolívar;13647;San Estanislao;N/A;6
+13;Bolívar;13650;San Fernando;N/A;6
+13;Bolívar;13654;San Jacinto;PDET;6
+13;Bolívar;13655;San Jacinto del Cauca;N/A;6
+13;Bolívar;13657;San Juan Nepomuceno;PDET;6
+13;Bolívar;13667;San Martín de Loba;N/A;6
+13;Bolívar;13670;San Pablo;PDET;6
+13;Bolívar;13673;Santa Catalina;N/A;6
+13;Bolívar;13683;Santa Rosa;N/A;6
+13;Bolívar;13688;Santa Rosa del Sur;PDET;6
+13;Bolívar;13744;Simití;PDET;6
+13;Bolívar;13760;Soplaviento;N/A;6
+13;Bolívar;13780;Talaigua Nuevo;N/A;6
+13;Bolívar;13810;Tiquisio;N/A;6
+13;Bolívar;13836;Turbaco;N/A;3
+13;Bolívar;13838;Turbaná;N/A;6
+13;Bolívar;13873;Villanueva;N/A;6
+13;Bolívar;13894;Zambrano;PDET;6
+15;Boyacá;15001;Tunja;N/A;1
+15;Boyacá;15022;Almeida;N/A;6
+15;Boyacá;15047;Aquitania;N/A;6
+15;Boyacá;15051;Arcabuco;N/A;6
+15;Boyacá;15087;Belén;N/A;6
+15;Boyacá;15090;Berbeo;N/A;6
+15;Boyacá;15092;Betéitiva;N/A;6
+15;Boyacá;15097;Boavita;N/A;6
+15;Boyacá;15104;Boyacá;N/A;6
+15;Boyacá;15106;Briceño;N/A;6
+15;Boyacá;15109;Buenavista;N/A;6
+15;Boyacá;15114;Busbanzá;N/A;6
+15;Boyacá;15131;Caldas;N/A;6
+15;Boyacá;15135;Campohermoso;N/A;6
+15;Boyacá;15162;Cerinza;N/A;6
+15;Boyacá;15172;Chinavita;N/A;6
+15;Boyacá;15176;Chiquinquirá;N/A;5
+15;Boyacá;15180;Chiscas;N/A;6
+15;Boyacá;15183;Chita;N/A;6
+15;Boyacá;15185;Chitaraque;N/A;6
+15;Boyacá;15187;Chivatá;N/A;6
+15;Boyacá;15189;Ciénega;N/A;6
+15;Boyacá;15204;Cómbita;N/A;6
+15;Boyacá;15212;Coper;N/A;6
+15;Boyacá;15215;Corrales;N/A;6
+15;Boyacá;15218;Covarachía;N/A;6
+15;Boyacá;15223;Cubará;N/A;6
+15;Boyacá;15224;Cucaita;N/A;6
+15;Boyacá;15226;Cuítiva;N/A;6
+15;Boyacá;15232;Chíquiza;N/A;6
+15;Boyacá;15236;Chivor;N/A;6
+15;Boyacá;15238;Duitama;N/A;3
+15;Boyacá;15244;El Cocuy;N/A;6
+15;Boyacá;15248;El Espino;N/A;6
+15;Boyacá;15272;Firavitoba;N/A;6
+15;Boyacá;15276;Floresta;N/A;6
+15;Boyacá;15293;Gachantivá;N/A;6
+15;Boyacá;15296;Gámeza;N/A;6
+15;Boyacá;15299;Garagoa;N/A;6
+15;Boyacá;15317;Guacamayas;N/A;6
+15;Boyacá;15322;Guateque;N/A;6
+15;Boyacá;15325;Guayatá;N/A;6
+15;Boyacá;15332;Güicán de La Sierra;N/A;6
+15;Boyacá;15362;Iza;N/A;6
+15;Boyacá;15367;Jenesano;N/A;6
+15;Boyacá;15368;Jericó;N/A;6
+15;Boyacá;15377;Labranzagrande;N/A;6
+15;Boyacá;15380;La Capilla;N/A;6
+15;Boyacá;15401;La Victoria;N/A;6
+15;Boyacá;15403;La Uvita;N/A;6
+15;Boyacá;15407;Villa de Leyva;N/A;6
+15;Boyacá;15425;Macanal;N/A;6
+15;Boyacá;15442;Maripí;N/A;6
+15;Boyacá;15455;Miraflores;N/A;6
+15;Boyacá;15464;Mongua;N/A;6
+15;Boyacá;15466;Monguí;N/A;6
+15;Boyacá;15469;Moniquirá;N/A;6
+15;Boyacá;15476;Motavita;N/A;6
+15;Boyacá;15480;Muzo;N/A;6
+15;Boyacá;15491;Nobsa;N/A;4
+15;Boyacá;15494;Nuevo Colón;N/A;6
+15;Boyacá;15500;Oicatá;N/A;6
+15;Boyacá;15507;Otanche;N/A;6
+15;Boyacá;15511;Pachavita;N/A;6
+15;Boyacá;15514;Páez;N/A;6
+15;Boyacá;15516;Paipa;N/A;5
+15;Boyacá;15518;Pajarito;N/A;6
+15;Boyacá;15522;Panqueba;N/A;6
+15;Boyacá;15531;Pauna;N/A;6
+15;Boyacá;15533;Paya;N/A;6
+15;Boyacá;15537;Paz de Río;N/A;6
+15;Boyacá;15542;Pesca;N/A;6
+15;Boyacá;15550;Pisba;N/A;6
+15;Boyacá;15572;Puerto Boyacá;N/A;3
+15;Boyacá;15580;Quípama;N/A;6
+15;Boyacá;15599;Ramiriquí;N/A;6
+15;Boyacá;15600;Ráquira;N/A;6
+15;Boyacá;15621;Rondón;N/A;6
+15;Boyacá;15632;Saboyá;N/A;6
+15;Boyacá;15638;Sáchica;N/A;6
+15;Boyacá;15646;Samacá;N/A;6
+15;Boyacá;15660;San Eduardo;N/A;6
+15;Boyacá;15664;San José de Pare;N/A;6
+15;Boyacá;15667;San Luis de Gaceno;N/A;6
+15;Boyacá;15673;San Mateo;N/A;6
+15;Boyacá;15676;San Miguel de Sema;N/A;6
+15;Boyacá;15681;San Pablo de Borbur;N/A;6
+15;Boyacá;15686;Santana;N/A;6
+15;Boyacá;15690;Santa María;N/A;6
+15;Boyacá;15693;Santa Rosa de Viterbo;N/A;6
+15;Boyacá;15696;Santa Sofía;N/A;6
+15;Boyacá;15720;Sativanorte;N/A;6
+15;Boyacá;15723;Sativasur;N/A;6
+15;Boyacá;15740;Siachoque;N/A;6
+15;Boyacá;15753;Soatá;N/A;6
+15;Boyacá;15755;Socotá;N/A;6
+15;Boyacá;15757;Socha;N/A;6
+15;Boyacá;15759;Sogamoso;N/A;2
+15;Boyacá;15761;Somondoco;N/A;6
+15;Boyacá;15762;Sora;N/A;6
+15;Boyacá;15763;Sotaquirá;N/A;6
+15;Boyacá;15764;Soracá;N/A;6
+15;Boyacá;15774;Susacón;N/A;6
+15;Boyacá;15776;Sutamarchán;N/A;6
+15;Boyacá;15778;Sutatenza;N/A;6
+15;Boyacá;15790;Tasco;N/A;6
+15;Boyacá;15798;Tenza;N/A;6
+15;Boyacá;15804;Tibaná;N/A;6
+15;Boyacá;15806;Tibasosa;N/A;6
+15;Boyacá;15808;Tinjacá;N/A;6
+15;Boyacá;15810;Tipacoque;N/A;6
+15;Boyacá;15814;Toca;N/A;6
+15;Boyacá;15816;Togüí;N/A;6
+15;Boyacá;15820;Tópaga;N/A;6
+15;Boyacá;15822;Tota;N/A;6
+15;Boyacá;15832;Tununguá;N/A;6
+15;Boyacá;15835;Turmequé;N/A;6
+15;Boyacá;15837;Tuta;N/A;6
+15;Boyacá;15839;Tutazá;N/A;6
+15;Boyacá;15842;Úmbita;N/A;6
+15;Boyacá;15861;Ventaquemada;N/A;6
+15;Boyacá;15879;Viracachá;N/A;6
+15;Boyacá;15897;Zetaquira;N/A;6
+17;Caldas;17001;Manizales;N/A;1
+17;Caldas;17013;Aguadas;N/A;6
+17;Caldas;17042;Anserma;N/A;6
+17;Caldas;17050;Aranzazu;N/A;6
+17;Caldas;17088;Belalcázar;N/A;6
+17;Caldas;17174;Chinchiná;N/A;5
+17;Caldas;17272;Filadelfia;N/A;6
+17;Caldas;17380;La Dorada;N/A;5
+17;Caldas;17388;La Merced;N/A;6
+17;Caldas;17433;Manzanares;N/A;6
+17;Caldas;17442;Marmato;N/A;6
+17;Caldas;17444;Marquetalia;N/A;6
+17;Caldas;17446;Marulanda;N/A;6
+17;Caldas;17486;Neira;N/A;6
+17;Caldas;17495;Norcasia;N/A;6
+17;Caldas;17513;Pácora;N/A;6
+17;Caldas;17524;Palestina;N/A;6
+17;Caldas;17541;Pensilvania;N/A;6
+17;Caldas;17614;Riosucio;N/A;6
+17;Caldas;17616;Risaralda;N/A;6
+17;Caldas;17653;Salamina;N/A;6
+17;Caldas;17662;Samaná;N/A;6
+17;Caldas;17665;San José;N/A;6
+17;Caldas;17777;Supía;N/A;6
+17;Caldas;17867;Victoria;N/A;6
+17;Caldas;17873;Villamaría;N/A;5
+17;Caldas;17877;Viterbo;N/A;6
+18;Caquetá;18001;Florencia;PDET;3
+18;Caquetá;18029;Albania;PDET;6
+18;Caquetá;18094;Belén de Los Andaquíes;PDET;6
+18;Caquetá;18150;Cartagena del Chairá;PDET;6
+18;Caquetá;18205;Curillo;PDET;6
+18;Caquetá;18247;El Doncello;PDET;6
+18;Caquetá;18256;El Paujíl;PDET;6
+18;Caquetá;18410;La Montañita;PDET;6
+18;Caquetá;18460;Milán;PDET;6
+18;Caquetá;18479;Morelia;PDET;6
+18;Caquetá;18592;Puerto Rico;PDET;6
+18;Caquetá;18610;San José del Fragua;PDET;6
+18;Caquetá;18753;San Vicente del Caguán;PDET;6
+18;Caquetá;18756;Solano;PDET;6
+18;Caquetá;18785;Solita;PDET;6
+18;Caquetá;18860;Valparaíso;PDET;6
+19;Cauca;19001;Popayán;N/A;1
+19;Cauca;19022;Almaguer;N/A;6
+19;Cauca;19050;Argelia;PDET;6
+19;Cauca;19075;Balboa;PDET;6
+19;Cauca;19100;Bolívar;N/A;6
+19;Cauca;19110;Buenos Aires;PDET;6
+19;Cauca;19130;Cajibío;PDET;6
+19;Cauca;19137;Caldono;PDET;6
+19;Cauca;19142;Caloto;PDET;6
+19;Cauca;19212;Corinto;PDET;6
+19;Cauca;19256;El Tambo;PDET;6
+19;Cauca;19290;Florencia;N/A;6
+19;Cauca;19300;Guachené;N/A;#N/D
+19;Cauca;19318;Guapi;PDET;6
+19;Cauca;19355;Inzá;N/A;6
+19;Cauca;19364;Jambaló;PDET;6
+19;Cauca;19392;La Sierra;N/A;6
+19;Cauca;19397;La Vega;N/A;6
+19;Cauca;19418;López de Micay;PDET;6
+19;Cauca;19450;Mercaderes;PDET;6
+19;Cauca;19455;Miranda;PDET;5
+19;Cauca;19473;Morales;PDET;6
+19;Cauca;19513;Padilla;N/A;6
+19;Cauca;19517;Páez;N/A;6
+19;Cauca;19532;Patía;PDET;6
+19;Cauca;19533;Piamonte;N/A;6
+19;Cauca;19548;Piendamó - Tunía;PDET;6
+19;Cauca;19573;Puerto Tejada;N/A;5
+19;Cauca;19585;Puracé;N/A;6
+19;Cauca;19622;Rosas;N/A;6
+19;Cauca;19693;San Sebastián;N/A;6
+19;Cauca;19698;Santander de Quilichao;PDET;5
+19;Cauca;19701;Santa Rosa;N/A;6
+19;Cauca;19743;Silvia;N/A;6
+19;Cauca;19760;Sotará Paispamba;N/A;6
+19;Cauca;19780;Suárez;PDET;6
+19;Cauca;19785;Sucre;N/A;6
+19;Cauca;19807;Timbío;N/A;6
+19;Cauca;19809;Timbiquí;PDET;6
+19;Cauca;19821;Toribío;PDET;6
+19;Cauca;19824;Totoró;N/A;6
+19;Cauca;19845;Villa Rica;N/A;5
+20;Cesar;20001;Valledupar;PDET;1
+20;Cesar;20011;Aguachica;N/A;6
+20;Cesar;20013;Agustín Codazzi;PDET;6
+20;Cesar;20032;Astrea;N/A;6
+20;Cesar;20045;Becerril;PDET;6
+20;Cesar;20060;Bosconia;N/A;6
+20;Cesar;20175;Chimichagua;N/A;6
+20;Cesar;20178;Chiriguaná;N/A;6
+20;Cesar;20228;Curumaní;N/A;6
+20;Cesar;20238;El Copey;N/A;6
+20;Cesar;20250;El Paso;N/A;6
+20;Cesar;20295;Gamarra;N/A;6
+20;Cesar;20310;González;N/A;6
+20;Cesar;20383;La Gloria;N/A;6
+20;Cesar;20400;La Jagua de Ibirico;PDET;6
+20;Cesar;20443;Manaure Balcón del Cesar;PDET;6
+20;Cesar;20517;Pailitas;N/A;6
+20;Cesar;20550;Pelaya;N/A;6
+20;Cesar;20570;Pueblo Bello;PDET;6
+20;Cesar;20614;Río de Oro;N/A;6
+20;Cesar;20621;La Paz;PDET;6
+20;Cesar;20710;San Alberto;N/A;6
+20;Cesar;20750;San Diego;PDET;6
+20;Cesar;20770;San Martín;N/A;6
+20;Cesar;20787;Tamalameque;N/A;6
+23;Córdoba;23001;Montería;N/A;1
+23;Córdoba;23068;Ayapel;N/A;6
+23;Córdoba;23079;Buenavista;N/A;6
+23;Córdoba;23090;Canalete;N/A;6
+23;Córdoba;23162;Cereté;N/A;6
+23;Córdoba;23168;Chimá;N/A;6
+23;Córdoba;23182;Chinú;N/A;6
+23;Córdoba;23189;Ciénaga de Oro;N/A;6
+23;Córdoba;23300;Cotorra;N/A;6
+23;Córdoba;23350;La Apartada;N/A;6
+23;Córdoba;23417;Lorica;N/A;6
+23;Córdoba;23419;Los Córdobas;N/A;6
+23;Córdoba;23464;Momil;N/A;6
+23;Córdoba;23466;Montelíbano;PDET;6
+23;Córdoba;23500;Moñitos;N/A;6
+23;Córdoba;23555;Planeta Rica;N/A;6
+23;Córdoba;23570;Pueblo Nuevo;N/A;6
+23;Córdoba;23574;Puerto Escondido;N/A;6
+23;Córdoba;23580;Puerto Libertador;PDET;6
+23;Córdoba;23586;Purísima de La Concepción;N/A;6
+23;Córdoba;23660;Sahagún;N/A;5
+23;Córdoba;23670;San Andrés Sotavento;N/A;6
+23;Córdoba;23672;San Antero;N/A;6
+23;Córdoba;23675;San Bernardo del Viento;N/A;6
+23;Córdoba;23678;San Carlos;N/A;6
+23;Córdoba;23682;San José de Uré;PDET;6
+23;Córdoba;23686;San Pelayo;N/A;6
+23;Córdoba;23807;Tierralta;PDET;6
+23;Córdoba;23815;Tuchín;N/A;6
+23;Córdoba;23855;Valencia;PDET;6
+25;Cundinamarca;25001;Agua de Dios;N/A;6
+25;Cundinamarca;25019;Albán;N/A;6
+25;Cundinamarca;25035;Anapoima;N/A;5
+25;Cundinamarca;25040;Anolaima;N/A;6
+25;Cundinamarca;25053;Arbeláez;N/A;6
+25;Cundinamarca;25086;Beltrán;N/A;6
+25;Cundinamarca;25095;Bituima;N/A;6
+25;Cundinamarca;25099;Bojacá;N/A;6
+25;Cundinamarca;25120;Cabrera;N/A;6
+25;Cundinamarca;25123;Cachipay;N/A;6
+25;Cundinamarca;25126;Cajicá;N/A;2
+25;Cundinamarca;25148;Caparrapí;N/A;6
+25;Cundinamarca;25151;Cáqueza;N/A;6
+25;Cundinamarca;25154;Carmen de Carupa;N/A;6
+25;Cundinamarca;25168;Chaguaní;N/A;6
+25;Cundinamarca;25175;Chía;N/A;1
+25;Cundinamarca;25178;Chipaque;N/A;6
+25;Cundinamarca;25181;Choachí;N/A;6
+25;Cundinamarca;25183;Chocontá;N/A;6
+25;Cundinamarca;25200;Cogua;N/A;5
+25;Cundinamarca;25214;Cota;N/A;2
+25;Cundinamarca;25224;Cucunubá;N/A;6
+25;Cundinamarca;25245;El Colegio;N/A;6
+25;Cundinamarca;25258;El Peñón;N/A;6
+25;Cundinamarca;25260;El Rosal;N/A;6
+25;Cundinamarca;25269;Facatativá;N/A;2
+25;Cundinamarca;25279;Fómeque;N/A;6
+25;Cundinamarca;25281;Fosca;N/A;6
+25;Cundinamarca;25286;Funza;N/A;1
+25;Cundinamarca;25288;Fúquene;N/A;6
+25;Cundinamarca;25290;Fusagasugá;N/A;2
+25;Cundinamarca;25293;Gachalá;N/A;6
+25;Cundinamarca;25295;Gachancipá;N/A;6
+25;Cundinamarca;25297;Gachetá;N/A;6
+25;Cundinamarca;25299;Gama;N/A;6
+25;Cundinamarca;25307;Girardot;N/A;3
+25;Cundinamarca;25312;Granada;N/A;6
+25;Cundinamarca;25317;Guachetá;N/A;6
+25;Cundinamarca;25320;Guaduas;N/A;6
+25;Cundinamarca;25322;Guasca;N/A;6
+25;Cundinamarca;25324;Guataquí;N/A;6
+25;Cundinamarca;25326;Guatavita;N/A;6
+25;Cundinamarca;25328;Guayabal de Síquima;N/A;6
+25;Cundinamarca;25335;Guayabetal;N/A;6
+25;Cundinamarca;25339;Gutiérrez;N/A;6
+25;Cundinamarca;25368;Jerusalén;N/A;6
+25;Cundinamarca;25372;Junín;N/A;6
+25;Cundinamarca;25377;La Calera;N/A;4
+25;Cundinamarca;25386;La Mesa;N/A;5
+25;Cundinamarca;25394;La Palma;N/A;6
+25;Cundinamarca;25398;La Peña;N/A;6
+25;Cundinamarca;25402;La Vega;N/A;6
+25;Cundinamarca;25407;Lenguazaque;N/A;6
+25;Cundinamarca;25426;Machetá;N/A;6
+25;Cundinamarca;25430;Madrid;N/A;2
+25;Cundinamarca;25436;Manta;N/A;6
+25;Cundinamarca;25438;Medina;N/A;6
+25;Cundinamarca;25473;Mosquera;N/A;1
+25;Cundinamarca;25483;Nariño;N/A;6
+25;Cundinamarca;25486;Nemocón;N/A;6
+25;Cundinamarca;25488;Nilo;N/A;6
+25;Cundinamarca;25489;Nimaima;N/A;6
+25;Cundinamarca;25491;Nocaima;N/A;6
+25;Cundinamarca;25506;Venecia;N/A;6
+25;Cundinamarca;25513;Pacho;N/A;6
+25;Cundinamarca;25518;Paime;N/A;6
+25;Cundinamarca;25524;Pandi;N/A;6
+25;Cundinamarca;25530;Paratebueno;N/A;6
+25;Cundinamarca;25535;Pasca;N/A;6
+25;Cundinamarca;25572;Puerto Salgar;N/A;6
+25;Cundinamarca;25580;Pulí;N/A;6
+25;Cundinamarca;25592;Quebradanegra;N/A;6
+25;Cundinamarca;25594;Quetame;N/A;6
+25;Cundinamarca;25596;Quipile;N/A;6
+25;Cundinamarca;25599;Apulo;N/A;6
+25;Cundinamarca;25612;Ricaurte;N/A;4
+25;Cundinamarca;25645;San Antonio del Tequendama;N/A;6
+25;Cundinamarca;25649;San Bernardo;N/A;6
+25;Cundinamarca;25653;San Cayetano;N/A;6
+25;Cundinamarca;25658;San Francisco;N/A;6
+25;Cundinamarca;25662;San Juan de Rioseco;N/A;6
+25;Cundinamarca;25718;Sasaima;N/A;6
+25;Cundinamarca;25736;Sesquilé;N/A;6
+25;Cundinamarca;25740;Sibaté;N/A;5
+25;Cundinamarca;25743;Silvania;N/A;6
+25;Cundinamarca;25745;Simijaca;N/A;6
+25;Cundinamarca;25754;Soacha;N/A;1
+25;Cundinamarca;25758;Sopó;N/A;3
+25;Cundinamarca;25769;Subachoque;N/A;6
+25;Cundinamarca;25772;Suesca;N/A;6
+25;Cundinamarca;25777;Supatá;N/A;6
+25;Cundinamarca;25779;Susa;N/A;6
+25;Cundinamarca;25781;Sutatausa;N/A;6
+25;Cundinamarca;25785;Tabio;N/A;6
+25;Cundinamarca;25793;Tausa;N/A;6
+25;Cundinamarca;25797;Tena;N/A;6
+25;Cundinamarca;25799;Tenjo;N/A;3
+25;Cundinamarca;25805;Tibacuy;N/A;6
+25;Cundinamarca;25807;Tibirita;N/A;6
+25;Cundinamarca;25815;Tocaima;N/A;6
+25;Cundinamarca;25817;Tocancipá;N/A;2
+25;Cundinamarca;25823;Topaipí;N/A;6
+25;Cundinamarca;25839;Ubalá;N/A;6
+25;Cundinamarca;25841;Ubaque;N/A;6
+25;Cundinamarca;25843;Villa de San Diego de Ubaté;N/A;6
+25;Cundinamarca;25845;Une;N/A;6
+25;Cundinamarca;25851;Útica;N/A;6
+25;Cundinamarca;25862;Vergara;N/A;6
+25;Cundinamarca;25867;Vianí;N/A;6
+25;Cundinamarca;25871;Villagómez;N/A;6
+25;Cundinamarca;25873;Villapinzón;N/A;6
+25;Cundinamarca;25875;Villeta;N/A;6
+25;Cundinamarca;25878;Viotá;N/A;6
+25;Cundinamarca;25885;Yacopí;N/A;6
+25;Cundinamarca;25898;Zipacón;N/A;6
+25;Cundinamarca;25899;Zipaquirá;N/A;2
+27;Chocó;27001;Quibdó;N/A;3
+27;Chocó;27006;Acandí;PDET;6
+27;Chocó;27025;Alto Baudó;N/A;6
+27;Chocó;27050;Atrato;N/A;6
+27;Chocó;27073;Bagadó;N/A;6
+27;Chocó;27075;Bahía Solano;N/A;6
+27;Chocó;27077;Bajo Baudó;N/A;6
+27;Chocó;27099;Bojayá;PDET;6
+27;Chocó;27135;El Cantón del San Pablo;N/A;6
+27;Chocó;27150;Carmen del Darién;PDET;6
+27;Chocó;27160;Cértegui;N/A;6
+27;Chocó;27205;Condoto;PDET;6
+27;Chocó;27245;El Carmen de Atrato;N/A;6
+27;Chocó;27250;El Litoral del San Juan;PDET;6
+27;Chocó;27361;Istmina;PDET;6
+27;Chocó;27372;Juradó;N/A;6
+27;Chocó;27413;Lloró;N/A;6
+27;Chocó;27425;Medio Atrato;PDET;6
+27;Chocó;27430;Medio Baudó;N/A;6
+27;Chocó;27450;Medio San Juan;PDET;6
+27;Chocó;27491;Nóvita;PDET;6
+27;Chocó;27495;Nuquí;N/A;6
+27;Chocó;27580;Río Iró;N/A;6
+27;Chocó;27600;Río Quito;N/A;6
+27;Chocó;27615;Riosucio;PDET;6
+27;Chocó;27660;San José del Palmar;N/A;6
+27;Chocó;27745;Sipí;PDET;6
+27;Chocó;27787;Tadó;N/A;6
+27;Chocó;27800;Unguía;PDET;6
+27;Chocó;27810;Unión Panamericana;N/A;6
+41;Huila;41001;Neiva;N/A;1
+41;Huila;41006;Acevedo;N/A;6
+41;Huila;41013;Agrado;N/A;6
+41;Huila;41016;Aipe;N/A;6
+41;Huila;41020;Algeciras;PDET;6
+41;Huila;41026;Altamira;N/A;6
+41;Huila;41078;Baraya;N/A;6
+41;Huila;41132;Campoalegre;N/A;6
+41;Huila;41206;Colombia;N/A;6
+41;Huila;41244;Elías;N/A;6
+41;Huila;41298;Garzón;N/A;6
+41;Huila;41306;Gigante;N/A;6
+41;Huila;41319;Guadalupe;N/A;6
+41;Huila;41349;Hobo;N/A;6
+41;Huila;41357;Íquira;N/A;6
+41;Huila;41359;Isnos;N/A;6
+41;Huila;41378;La Argentina;N/A;6
+41;Huila;41396;La Plata;N/A;6
+41;Huila;41483;Nátaga;N/A;6
+41;Huila;41503;Oporapa;N/A;6
+41;Huila;41518;Paicol;N/A;6
+41;Huila;41524;Palermo;N/A;6
+41;Huila;41530;Palestina;N/A;6
+41;Huila;41548;Pital;N/A;6
+41;Huila;41551;Pitalito;N/A;3
+41;Huila;41615;Rivera;N/A;6
+41;Huila;41660;Saladoblanco;N/A;6
+41;Huila;41668;San Agustín;N/A;6
+41;Huila;41676;Santa María;N/A;6
+41;Huila;41770;Suaza;N/A;6
+41;Huila;41791;Tarqui;N/A;6
+41;Huila;41797;Tesalia;N/A;6
+41;Huila;41799;Tello;N/A;6
+41;Huila;41801;Teruel;N/A;6
+41;Huila;41807;Timaná;N/A;6
+41;Huila;41872;Villavieja;N/A;6
+41;Huila;41885;Yaguará;N/A;6
+44;La Guajira;44001;Riohacha;N/A;3
+44;La Guajira;44035;Albania;N/A;5
+44;La Guajira;44078;Barrancas;N/A;6
+44;La Guajira;44090;Dibulla;PDET;6
+44;La Guajira;44098;Distracción;N/A;6
+44;La Guajira;44110;El Molino;N/A;6
+44;La Guajira;44279;Fonseca;PDET;6
+44;La Guajira;44378;Hatonuevo;N/A;6
+44;La Guajira;44420;La Jagua del Pilar;N/A;6
+44;La Guajira;44430;Maicao;N/A;4
+44;La Guajira;44560;Manaure;N/A;4
+44;La Guajira;44650;San Juan del Cesar;PDET;6
+44;La Guajira;44847;Uribia;N/A;4
+44;La Guajira;44855;Urumita;N/A;6
+44;La Guajira;44874;Villanueva;N/A;6
+47;Magdalena;47001;Santa Marta;PDET;1
+47;Magdalena;47030;Algarrobo;N/A;6
+47;Magdalena;47053;Aracataca;PDET;6
+47;Magdalena;47058;Ariguaní;N/A;6
+47;Magdalena;47161;Cerro de San Antonio;N/A;6
+47;Magdalena;47170;Chibolo;N/A;6
+47;Magdalena;47189;Ciénaga;PDET;5
+47;Magdalena;47205;Concordia;N/A;6
+47;Magdalena;47245;El Banco;N/A;6
+47;Magdalena;47258;El Piñón;N/A;6
+47;Magdalena;47268;El Retén;N/A;6
+47;Magdalena;47288;Fundación;PDET;6
+47;Magdalena;47318;Guamal;N/A;6
+47;Magdalena;47460;Nueva Granada;N/A;6
+47;Magdalena;47541;Pedraza;N/A;6
+47;Magdalena;47545;Pijiño del Carmen;N/A;6
+47;Magdalena;47551;Pivijay;N/A;6
+47;Magdalena;47555;Plato;N/A;6
+47;Magdalena;47570;Puebloviejo;N/A;6
+47;Magdalena;47605;Remolino;N/A;6
+47;Magdalena;47660;Sabanas de San Ángel;N/A;6
+47;Magdalena;47675;Salamina;N/A;6
+47;Magdalena;47692;San Sebastián de Buenavista;N/A;6
+47;Magdalena;47703;San Zenón;N/A;6
+47;Magdalena;47707;Santa Ana;N/A;6
+47;Magdalena;47720;Santa Bárbara de Pinto;N/A;6
+47;Magdalena;47745;Sitionuevo;N/A;6
+47;Magdalena;47798;Tenerife;N/A;6
+47;Magdalena;47960;Zapayán;N/A;6
+47;Magdalena;47980;Zona Bananera;N/A;6
+50;Meta;50001;Villavicencio;N/A;1
+50;Meta;50006;Acacías;N/A;3
+50;Meta;50110;Barranca de Upía;N/A;6
+50;Meta;50124;Cabuyaro;N/A;6
+50;Meta;50150;Castilla la Nueva;N/A;6
+50;Meta;50223;Cubarral;N/A;6
+50;Meta;50226;Cumaral;N/A;6
+50;Meta;50245;El Calvario;N/A;6
+50;Meta;50251;El Castillo;N/A;6
+50;Meta;50270;El Dorado;N/A;6
+50;Meta;50287;Fuente de Oro;N/A;6
+50;Meta;50313;Granada;N/A;5
+50;Meta;50318;Guamal;N/A;6
+50;Meta;50325;Mapiripán;PDET;6
+50;Meta;50330;Mesetas;PDET;6
+50;Meta;50350;La Macarena;PDET;6
+50;Meta;50370;Uribe;PDET;6
+50;Meta;50400;Lejanías;N/A;6
+50;Meta;50450;Puerto Concordia;PDET;6
+50;Meta;50568;Puerto Gaitán;N/A;3
+50;Meta;50573;Puerto López;N/A;5
+50;Meta;50577;Puerto Lleras;PDET;6
+50;Meta;50590;Puerto Rico;PDET;6
+50;Meta;50606;Restrepo;N/A;6
+50;Meta;50680;San Carlos de Guaroa;N/A;6
+50;Meta;50683;San Juan de Arama;N/A;6
+50;Meta;50686;San Juanito;N/A;6
+50;Meta;50689;San Martín;N/A;6
+50;Meta;50711;Vistahermosa;PDET;6
+52;Nariño;52001;Pasto;N/A;1
+52;Nariño;52019;Albán;N/A;6
+52;Nariño;52022;Aldana;N/A;6
+52;Nariño;52036;Ancuya;N/A;6
+52;Nariño;52051;Arboleda;N/A;6
+52;Nariño;52079;Barbacoas;PDET;6
+52;Nariño;52083;Belén;N/A;6
+52;Nariño;52110;Buesaco;N/A;6
+52;Nariño;52203;Colón;N/A;6
+52;Nariño;52207;Consacá;N/A;6
+52;Nariño;52210;Contadero;N/A;6
+52;Nariño;52215;Córdoba;N/A;6
+52;Nariño;52224;Cuaspud Carlosama;N/A;6
+52;Nariño;52227;Cumbal;N/A;6
+52;Nariño;52233;Cumbitara;PDET;6
+52;Nariño;52240;Chachagüí;N/A;6
+52;Nariño;52250;El Charco;PDET;6
+52;Nariño;52254;El Peñol;N/A;6
+52;Nariño;52256;El Rosario;PDET;6
+52;Nariño;52258;El Tablón de Gómez;N/A;6
+52;Nariño;52260;El Tambo;N/A;6
+52;Nariño;52287;Funes;N/A;6
+52;Nariño;52317;Guachucal;N/A;6
+52;Nariño;52320;Guaitarilla;N/A;6
+52;Nariño;52323;Gualmatán;N/A;6
+52;Nariño;52352;Iles;N/A;6
+52;Nariño;52354;Imués;N/A;6
+52;Nariño;52356;Ipiales;N/A;4
+52;Nariño;52378;La Cruz;N/A;6
+52;Nariño;52381;La Florida;N/A;6
+52;Nariño;52385;La Llanada;N/A;6
+52;Nariño;52390;La Tola;PDET;6
+52;Nariño;52399;La Unión;N/A;6
+52;Nariño;52405;Leiva;PDET;6
+52;Nariño;52411;Linares;N/A;6
+52;Nariño;52418;Los Andes;PDET;6
+52;Nariño;52427;Magüí;PDET;6
+52;Nariño;52435;Mallama;N/A;6
+52;Nariño;52473;Mosquera;PDET;6
+52;Nariño;52480;Nariño;N/A;6
+52;Nariño;52490;Olaya Herrera;PDET;6
+52;Nariño;52506;Ospina;N/A;6
+52;Nariño;52520;Francisco Pizarro;PDET;6
+52;Nariño;52540;Policarpa;PDET;6
+52;Nariño;52560;Potosí;N/A;6
+52;Nariño;52565;Providencia;N/A;6
+52;Nariño;52573;Puerres;N/A;6
+52;Nariño;52585;Pupiales;N/A;6
+52;Nariño;52612;Ricaurte;PDET;6
+52;Nariño;52621;Roberto Payán;PDET;6
+52;Nariño;52678;Samaniego;N/A;6
+52;Nariño;52683;Sandoná;N/A;6
+52;Nariño;52685;San Bernardo;N/A;6
+52;Nariño;52687;San Lorenzo;N/A;6
+52;Nariño;52693;San Pablo;N/A;6
+52;Nariño;52694;San Pedro de Cartago;N/A;6
+52;Nariño;52696;Santa Bárbara;PDET;6
+52;Nariño;52699;Santacruz;N/A;6
+52;Nariño;52720;Sapuyes;N/A;6
+52;Nariño;52786;Taminango;N/A;6
+52;Nariño;52788;Tangua;N/A;6
+52;Nariño;52835;San Andrés de Tumaco;PDET;4
+52;Nariño;52838;Túquerres;N/A;6
+52;Nariño;52885;Yacuanquer;N/A;6
+54;Norte de Santander;54001;San José de Cúcuta;N/A;1
+54;Norte de Santander;54003;Ábrego;N/A;6
+54;Norte de Santander;54051;Arboledas;N/A;6
+54;Norte de Santander;54099;Bochalema;N/A;6
+54;Norte de Santander;54109;Bucarasica;N/A;6
+54;Norte de Santander;54125;Cácota;N/A;6
+54;Norte de Santander;54128;Cáchira;N/A;6
+54;Norte de Santander;54172;Chinácota;N/A;6
+54;Norte de Santander;54174;Chitagá;N/A;6
+54;Norte de Santander;54206;Convención;PDET;6
+54;Norte de Santander;54223;Cucutilla;N/A;6
+54;Norte de Santander;54239;Durania;N/A;6
+54;Norte de Santander;54245;El Carmen;PDET;6
+54;Norte de Santander;54250;El Tarra;PDET;6
+54;Norte de Santander;54261;El Zulia;N/A;6
+54;Norte de Santander;54313;Gramalote;N/A;6
+54;Norte de Santander;54344;Hacarí;PDET;6
+54;Norte de Santander;54347;Herrán;N/A;6
+54;Norte de Santander;54377;Labateca;N/A;6
+54;Norte de Santander;54385;La Esperanza;N/A;6
+54;Norte de Santander;54398;La Playa;N/A;6
+54;Norte de Santander;54405;Los Patios;N/A;4
+54;Norte de Santander;54418;Lourdes;N/A;6
+54;Norte de Santander;54480;Mutiscua;N/A;6
+54;Norte de Santander;54498;Ocaña;N/A;5
+54;Norte de Santander;54518;Pamplona;N/A;6
+54;Norte de Santander;54520;Pamplonita;N/A;6
+54;Norte de Santander;54553;Puerto Santander;N/A;6
+54;Norte de Santander;54599;Ragonvalia;N/A;6
+54;Norte de Santander;54660;Salazar;N/A;6
+54;Norte de Santander;54670;San Calixto;PDET;6
+54;Norte de Santander;54673;San Cayetano;N/A;6
+54;Norte de Santander;54680;Santiago;N/A;6
+54;Norte de Santander;54720;Sardinata;PDET;6
+54;Norte de Santander;54743;Silos;N/A;6
+54;Norte de Santander;54800;Teorama;PDET;6
+54;Norte de Santander;54810;Tibú;PDET;6
+54;Norte de Santander;54820;Toledo;N/A;6
+54;Norte de Santander;54871;Villa Caro;N/A;6
+54;Norte de Santander;54874;Villa del Rosario;N/A;4
+63;Quindio;63001;Armenia;N/A;1
+63;Quindio;63111;Buenavista;N/A;6
+63;Quindio;63130;Calarcá;N/A;5
+63;Quindio;63190;Circasia;N/A;6
+63;Quindio;63212;Córdoba;N/A;6
+63;Quindio;63272;Filandia;N/A;6
+63;Quindio;63302;Génova;N/A;6
+63;Quindio;63401;La Tebaida;N/A;6
+63;Quindio;63470;Montenegro;N/A;6
+63;Quindio;63548;Pijao;N/A;6
+63;Quindio;63594;Quimbaya;N/A;6
+63;Quindio;63690;Salento;N/A;6
+66;Risaralda;66001;Pereira;N/A;1
+66;Risaralda;66045;Apía;N/A;6
+66;Risaralda;66075;Balboa;N/A;6
+66;Risaralda;66088;Belén de Umbría;N/A;6
+66;Risaralda;66170;Dosquebradas;N/A;2
+66;Risaralda;66318;Guática;N/A;6
+66;Risaralda;66383;La Celia;N/A;6
+66;Risaralda;66400;La Virginia;N/A;6
+66;Risaralda;66440;Marsella;N/A;6
+66;Risaralda;66456;Mistrató;N/A;6
+66;Risaralda;66572;Pueblo Rico;N/A;6
+66;Risaralda;66594;Quinchía;N/A;6
+66;Risaralda;66682;Santa Rosa de Cabal;N/A;5
+66;Risaralda;66687;Santuario;N/A;6
+68;Santander;68001;Bucaramanga;N/A;ESP
+68;Santander;68013;Aguada;N/A;6
+68;Santander;68020;Albania;N/A;6
+68;Santander;68051;Aratoca;N/A;6
+68;Santander;68077;Barbosa;N/A;6
+68;Santander;68079;Barichara;N/A;6
+68;Santander;68081;Barrancabermeja;N/A;1
+68;Santander;68092;Betulia;N/A;6
+68;Santander;68101;Bolívar;N/A;6
+68;Santander;68121;Cabrera;N/A;6
+68;Santander;68132;California;N/A;6
+68;Santander;68147;Capitanejo;N/A;6
+68;Santander;68152;Carcasí;N/A;6
+68;Santander;68160;Cepitá;N/A;6
+68;Santander;68162;Cerrito;N/A;6
+68;Santander;68167;Charalá;N/A;6
+68;Santander;68169;Charta;N/A;6
+68;Santander;68176;Chimá;N/A;6
+68;Santander;68179;Chipatá;N/A;6
+68;Santander;68190;Cimitarra;N/A;6
+68;Santander;68207;Concepción;N/A;6
+68;Santander;68209;Confines;N/A;6
+68;Santander;68211;Contratación;N/A;6
+68;Santander;68217;Coromoro;N/A;6
+68;Santander;68229;Curití;N/A;6
+68;Santander;68235;El Carmen de Chucurí;N/A;6
+68;Santander;68245;El Guacamayo;N/A;6
+68;Santander;68250;El Peñón;N/A;6
+68;Santander;68255;El Playón;N/A;6
+68;Santander;68264;Encino;N/A;6
+68;Santander;68266;Enciso;N/A;6
+68;Santander;68271;Florián;N/A;6
+68;Santander;68276;Floridablanca;N/A;1
+68;Santander;68296;Galán;N/A;6
+68;Santander;68298;Gámbita;N/A;6
+68;Santander;68307;Girón;N/A;2
+68;Santander;68318;Guaca;N/A;6
+68;Santander;68320;Guadalupe;N/A;6
+68;Santander;68322;Guapotá;N/A;6
+68;Santander;68324;Guavatá;N/A;6
+68;Santander;68327;Güepsa;N/A;6
+68;Santander;68344;Hato;N/A;6
+68;Santander;68368;Jesús María;N/A;6
+68;Santander;68370;Jordán;N/A;6
+68;Santander;68377;La Belleza;N/A;6
+68;Santander;68385;Landázuri;N/A;6
+68;Santander;68397;La Paz;N/A;6
+68;Santander;68406;Lebrija;N/A;5
+68;Santander;68418;Los Santos;N/A;6
+68;Santander;68425;Macaravita;N/A;6
+68;Santander;68432;Málaga;N/A;6
+68;Santander;68444;Matanza;N/A;6
+68;Santander;68464;Mogotes;N/A;6
+68;Santander;68468;Molagavita;N/A;6
+68;Santander;68498;Ocamonte;N/A;6
+68;Santander;68500;Oiba;N/A;6
+68;Santander;68502;Onzaga;N/A;6
+68;Santander;68522;Palmar;N/A;6
+68;Santander;68524;Palmas del Socorro;N/A;6
+68;Santander;68533;Páramo;N/A;6
+68;Santander;68547;Piedecuesta;N/A;2
+68;Santander;68549;Pinchote;N/A;6
+68;Santander;68572;Puente Nacional;N/A;6
+68;Santander;68573;Puerto Parra;N/A;6
+68;Santander;68575;Puerto Wilches;N/A;6
+68;Santander;68615;Rionegro;N/A;6
+68;Santander;68655;Sabana de Torres;N/A;6
+68;Santander;68669;San Andrés;N/A;6
+68;Santander;68673;San Benito;N/A;6
+68;Santander;68679;San Gil;N/A;5
+68;Santander;68682;San Joaquín;N/A;6
+68;Santander;68684;San José de Miranda;N/A;6
+68;Santander;68686;San Miguel;N/A;6
+68;Santander;68689;San Vicente de Chucurí;N/A;6
+68;Santander;68705;Santa Bárbara;N/A;6
+68;Santander;68720;Santa Helena del Opón;N/A;6
+68;Santander;68745;Simacota;N/A;6
+68;Santander;68755;Socorro;N/A;6
+68;Santander;68770;Suaita;N/A;6
+68;Santander;68773;Sucre;N/A;6
+68;Santander;68780;Suratá;N/A;6
+68;Santander;68820;Tona;N/A;6
+68;Santander;68855;Valle de San José;N/A;6
+68;Santander;68861;Vélez;N/A;6
+68;Santander;68867;Vetas;N/A;6
+68;Santander;68872;Villanueva;N/A;6
+68;Santander;68895;Zapatoca;N/A;6
+70;Sucre;70001;Sincelejo;N/A;2
+70;Sucre;70110;Buenavista;N/A;6
+70;Sucre;70124;Caimito;N/A;6
+70;Sucre;70204;Coloso;PDET;6
+70;Sucre;70215;Corozal;N/A;6
+70;Sucre;70221;Coveñas;N/A;4
+70;Sucre;70230;Chalán;PDET;6
+70;Sucre;70233;El Roble;N/A;6
+70;Sucre;70235;Galeras;N/A;6
+70;Sucre;70265;Guaranda;N/A;6
+70;Sucre;70400;La Unión;N/A;6
+70;Sucre;70418;Los Palmitos;PDET;6
+70;Sucre;70429;Majagual;N/A;6
+70;Sucre;70473;Morroa;PDET;6
+70;Sucre;70508;Ovejas;PDET;6
+70;Sucre;70523;Palmito;PDET;6
+70;Sucre;70670;Sampués;N/A;6
+70;Sucre;70678;San Benito Abad;N/A;6
+70;Sucre;70702;San Juan de Betulia;N/A;6
+70;Sucre;70708;San Marcos;N/A;6
+70;Sucre;70713;San Onofre;PDET;6
+70;Sucre;70717;San Pedro;N/A;6
+70;Sucre;70742;San Luis de Sincé;N/A;6
+70;Sucre;70771;Sucre;N/A;6
+70;Sucre;70820;Santiago de Tolú;N/A;6
+70;Sucre;70823;Tolú Viejo;PDET;6
+73;Tolima;73001;Ibagué;N/A;1
+73;Tolima;73024;Alpujarra;N/A;6
+73;Tolima;73026;Alvarado;N/A;6
+73;Tolima;73030;Ambalema;N/A;6
+73;Tolima;73043;Anzoátegui;N/A;6
+73;Tolima;73055;Armero;N/A;6
+73;Tolima;73067;Ataco;PDET;6
+73;Tolima;73124;Cajamarca;N/A;6
+73;Tolima;73148;Carmen de Apicalá;N/A;6
+73;Tolima;73152;Casabianca;N/A;6
+73;Tolima;73168;Chaparral;PDET;6
+73;Tolima;73200;Coello;N/A;6
+73;Tolima;73217;Coyaima;N/A;6
+73;Tolima;73226;Cunday;N/A;6
+73;Tolima;73236;Dolores;N/A;6
+73;Tolima;73268;Espinal;N/A;3
+73;Tolima;73270;Falan;N/A;6
+73;Tolima;73275;Flandes;N/A;6
+73;Tolima;73283;Fresno;N/A;6
+73;Tolima;73319;Guamo;N/A;6
+73;Tolima;73347;Herveo;N/A;6
+73;Tolima;73349;Honda;N/A;6
+73;Tolima;73352;Icononzo;N/A;6
+73;Tolima;73408;Lérida;N/A;6
+73;Tolima;73411;Líbano;N/A;6
+73;Tolima;73443;Mariquita;N/A;6
+73;Tolima;73449;Melgar;N/A;5
+73;Tolima;73461;Murillo;N/A;6
+73;Tolima;73483;Natagaima;N/A;6
+73;Tolima;73504;Ortega;N/A;6
+73;Tolima;73520;Palocabildo;N/A;6
+73;Tolima;73547;Piedras;N/A;6
+73;Tolima;73555;Planadas;PDET;6
+73;Tolima;73563;Prado;N/A;6
+73;Tolima;73585;Purificación;N/A;6
+73;Tolima;73616;Rioblanco;PDET;6
+73;Tolima;73622;Roncesvalles;N/A;6
+73;Tolima;73624;Rovira;N/A;6
+73;Tolima;73671;Saldaña;N/A;6
+73;Tolima;73675;San Antonio;N/A;6
+73;Tolima;73678;San Luis;N/A;6
+73;Tolima;73686;Santa Isabel;N/A;6
+73;Tolima;73770;Suárez;N/A;6
+73;Tolima;73854;Valle de San Juan;N/A;6
+73;Tolima;73861;Venadillo;N/A;6
+73;Tolima;73870;Villahermosa;N/A;6
+73;Tolima;73873;Villarrica;N/A;6
+76;Valle del Cauca;76001;Cali;N/A;ESP
+76;Valle del Cauca;76020;Alcalá;N/A;6
+76;Valle del Cauca;76036;Andalucía;N/A;6
+76;Valle del Cauca;76041;Ansermanuevo;N/A;6
+76;Valle del Cauca;76054;Argelia;N/A;6
+76;Valle del Cauca;76100;Bolívar;N/A;6
+76;Valle del Cauca;76109;Buenaventura;PDET;1
+76;Valle del Cauca;76111;Guadalajara de Buga;N/A;2
+76;Valle del Cauca;76113;Bugalagrande;N/A;5
+76;Valle del Cauca;76122;Caicedonia;N/A;6
+76;Valle del Cauca;76126;Calima;N/A;6
+76;Valle del Cauca;76130;Candelaria;N/A;3
+76;Valle del Cauca;76147;Cartago;N/A;3
+76;Valle del Cauca;76233;Dagua;N/A;6
+76;Valle del Cauca;76243;El Águila;N/A;6
+76;Valle del Cauca;76246;El Cairo;N/A;6
+76;Valle del Cauca;76248;El Cerrito;N/A;5
+76;Valle del Cauca;76250;El Dovio;N/A;6
+76;Valle del Cauca;76275;Florida;PDET;6
+76;Valle del Cauca;76306;Ginebra;N/A;6
+76;Valle del Cauca;76318;Guacarí;N/A;6
+76;Valle del Cauca;76364;Jamundí;N/A;2
+76;Valle del Cauca;76377;La Cumbre;N/A;6
+76;Valle del Cauca;76400;La Unión;N/A;6
+76;Valle del Cauca;76403;La Victoria;N/A;6
+76;Valle del Cauca;76497;Obando;N/A;6
+76;Valle del Cauca;76520;Palmira;N/A;1
+76;Valle del Cauca;76563;Pradera;PDET;6
+76;Valle del Cauca;76606;Restrepo;N/A;6
+76;Valle del Cauca;76616;Riofrío;N/A;6
+76;Valle del Cauca;76622;Roldanillo;N/A;6
+76;Valle del Cauca;76670;San Pedro;N/A;6
+76;Valle del Cauca;76736;Sevilla;N/A;6
+76;Valle del Cauca;76823;Toro;N/A;6
+76;Valle del Cauca;76828;Trujillo;N/A;6
+76;Valle del Cauca;76834;Tuluá;N/A;2
+76;Valle del Cauca;76845;Ulloa;N/A;6
+76;Valle del Cauca;76863;Versalles;N/A;6
+76;Valle del Cauca;76869;Vijes;N/A;6
+76;Valle del Cauca;76890;Yotoco;N/A;6
+76;Valle del Cauca;76892;Yumbo;N/A;1
+76;Valle del Cauca;76895;Zarzal;N/A;5
+81;Arauca;81001;Arauca;N/A;4
+81;Arauca;81065;Arauquita;PDET;6
+81;Arauca;81220;Cravo Norte;N/A;6
+81;Arauca;81300;Fortul;PDET;6
+81;Arauca;81591;Puerto Rondón;N/A;6
+81;Arauca;81736;Saravena;PDET;6
+81;Arauca;81794;Tame;PDET;6
+85;Casanare;85001;Yopal;N/A;2
+85;Casanare;85010;Aguazul;N/A;5
+85;Casanare;85015;Chámeza;N/A;6
+85;Casanare;85125;Hato Corozal;N/A;6
+85;Casanare;85136;La Salina;N/A;6
+85;Casanare;85139;Maní;N/A;6
+85;Casanare;85162;Monterrey;N/A;6
+85;Casanare;85225;Nunchía;N/A;6
+85;Casanare;85230;Orocué;N/A;6
+85;Casanare;85250;Paz de Ariporo;N/A;6
+85;Casanare;85263;Pore;N/A;6
+85;Casanare;85279;Recetor;N/A;6
+85;Casanare;85300;Sabanalarga;N/A;6
+85;Casanare;85315;Sácama;N/A;6
+85;Casanare;85325;San Luis de Palenque;N/A;6
+85;Casanare;85400;Támara;N/A;6
+85;Casanare;85410;Tauramena;N/A;4
+85;Casanare;85430;Trinidad;N/A;6
+85;Casanare;85440;Villanueva;N/A;5
+86;Putumayo;86001;Mocoa;PDET;6
+86;Putumayo;86219;Colón;N/A;6
+86;Putumayo;86320;Orito;PDET;6
+86;Putumayo;86568;Puerto Asís;PDET;6
+86;Putumayo;86569;Puerto Caicedo;PDET;6
+86;Putumayo;86571;Puerto Guzmán;PDET;6
+86;Putumayo;86573;Puerto Leguízamo;PDET;6
+86;Putumayo;86749;Sibundoy;N/A;6
+86;Putumayo;86755;San Francisco;N/A;6
+86;Putumayo;86757;San Miguel;PDET;6
+86;Putumayo;86760;Santiago;N/A;6
+86;Putumayo;86865;Valle del Guamuez;PDET;6
+86;Putumayo;86885;Villagarzón;PDET;6
+88;Archipiélago de San Andrés;88001;San Andrés;N/A;#N/D
+88;Archipiélago de San Andrés;88564;Providencia;N/A;5
+91;Amazonas;91001;Leticia;N/A;5
+91;Amazonas;91263;El Encanto (CD);N/A;null
+91;Amazonas;91405;La Chorrera (CD);N/A;null
+91;Amazonas;91407;La Pedrera (CD);N/A;null
+91;Amazonas;91430;La Victoria (CD);N/A;null
+91;Amazonas;91460;Miriti - Paraná (CD);N/A;null
+91;Amazonas;91530;Puerto Alegría (CD);N/A;null
+91;Amazonas;91536;Puerto Arica (CD);N/A;null
+91;Amazonas;91540;Puerto Nariño;N/A;6
+91;Amazonas;91669;Puerto Santander (CD);N/A;null
+91;Amazonas;91798;Tarapacá (CD);N/A;null
+94;Guainía;94001;Inírida;N/A;6
+94;Guainía;94343;Barrancominas;N/A;null
+94;Guainía;94883;San Felipe (CD);N/A;null
+94;Guainía;94884;Puerto Colombia (CD);N/A;null
+94;Guainía;94885;La Guadalupe (CD);N/A;null
+94;Guainía;94886;Cacahual (CD);N/A;null
+94;Guainía;94887;Pana Pana (CD);N/A;null
+94;Guainía;94888;Morichal (CD);N/A;null
+95;Guaviare;95001;San José del Guaviare;PDET;6
+95;Guaviare;95015;Calamar;PDET;6
+95;Guaviare;95025;El Retorno;PDET;6
+95;Guaviare;95200;Miraflores;PDET;6
+97;Vaupés;97001;Mitú;N/A;6
+97;Vaupés;97161;Carurú;N/A;6
+97;Vaupés;97511;Pacoa (CD);N/A;null
+97;Vaupés;97666;Taraira;N/A;6
+97;Vaupés;97777;Papunahua (CD);N/A;null
+97;Vaupés;97889;Yavaraté (CD);N/A;null
+99;Vichada;99001;Puerto Carreño;N/A;6
+99;Vichada;99524;La Primavera;N/A;6
+99;Vichada;99624;Santa Rosalía;N/A;6
+99;Vichada;99773;Cumaribo;N/A;4
