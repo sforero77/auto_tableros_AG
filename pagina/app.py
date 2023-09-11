@@ -19,6 +19,15 @@ def allowed_file(filename):
 
 @app.route("/upload_tablero7", methods=["POST"])
 def upload_and_process7():
+    # Obtén la fecha final del formulario
+    end_date = request.form['end_date']
+    partes = end_date.split("-")
+
+    # Obtener el año, mes y día como enteros
+    año = int(partes[0])
+    mes = int(partes[1])
+    dia = int(partes[2])
+
     if request.method == "POST":
         file = request.files["file"]
         if file and allowed_file(file.filename):
@@ -33,7 +42,7 @@ def upload_and_process7():
             path_bd_pn = "./static/archivos/tab7/resultado_fusion.csv"
             path_bd_dane = "./static/archivos/BD_DANE.csv"
 
-            process_db(path_bd_pn,path_bd_dane)
+            process_db(path_bd_pn,path_bd_dane,año,mes,dia)
             
             path_periodo = './static/archivos/tab7/resultados/Periodo.csv'
             path_proy = './static/archivos/PROY.csv'
