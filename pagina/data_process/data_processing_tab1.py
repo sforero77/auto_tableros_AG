@@ -244,6 +244,10 @@ def process_HOMICIDIOS_Variables(path_Variables):
     
     data_variables = data_variables.reindex(columns=column_order)
     
+    data_variables['Mes'] = data_variables['MES_']
+    
+    data_variables['MesAno'] = data_variables['AÑO'].astype(str) + '-' + data_variables['Numero_Mes'].astype(str)
+    
     data_variables['MES_'] = data_variables.apply(lambda row: f"{row['Numero_Mes']}. {row['MES_']}", axis=1)
     
     print(data_variables.iloc[5])

@@ -211,7 +211,7 @@ def process_Variables(path_Variables = './static/archivos/tab7/resultados/Variab
     # Calcular el número de semana
     data_variables['Numero_Semana'] = data_variables['fecha'].dt.isocalendar().week
     
-    columns_to_drop = ['div_dpto', 'departamento', 'municipio']
+    columns_to_drop = ['div_dpto']
     data_variables.drop(columns=columns_to_drop, inplace=True)
     
     column_mapping = {
@@ -226,11 +226,13 @@ def process_Variables(path_Variables = './static/archivos/tab7/resultados/Variab
     'dia_letra': 'DIA_SEMANA',
     'mun_dep': 'Concat municipio',
     'Numero_Semana': 'Numero_semana',
+    'departamento': 'DEPARTAMENTO',
+    'municipio': 'MUNICIPIO'
 }
 
     data_variables.rename(columns=column_mapping, inplace=True)
     
-    column_order=['CODIGO_DANE', 'ARMAS_MEDIOS', 'FECHA_HECHO','Genero', 'agrupa_edad', 'CANTIDAD',
+    column_order=['DEPARTAMENTO','MUNICIPIO','CODIGO_DANE', 'ARMAS_MEDIOS', 'FECHA_HECHO','Genero', 'agrupa_edad', 'CANTIDAD',
                 'DIA','Numero_Mes','Numero_semana', 'AÑO', 'MES_', 'DIA_SEMANA', 'Concat municipio' ]
     
     data_variables = data_variables.reindex(columns=column_order)
